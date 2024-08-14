@@ -1,2 +1,3 @@
-# hyperspectral_indices
-.
+# Genetic Programming for the generation of Hyperspectral Indices in Crops
+
+Nowadays, the use of hyperspectral images in the agroindustry is growing because it represents a non-invasive methodology for identifying the internal properties of food products. Hyperspectral indices are common in satellite and aerial images for identifying vegetation, water, etc. This respository proposes a methodology for generating hyperspectral indices on a minor scale to identify dry matter in crops based on Genetic Programming. We use the correlation coefficients Pearson and Kendal as fitness functions. We use the datasets of four crops: apple, broccoli, leek, and mushroom. 
